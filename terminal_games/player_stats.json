@@ -1,0 +1,24 @@
+{
+    "sudoku": {
+        "best_times": {
+            "easy": null,
+            "medium": null,
+            "hard": null
+        },
+        "wins": 0,
+        "no_hint_wins": 0
+    },
+    "chess": {
+        "wins": 1,
+        "draws": 0,
+        "losses": 0
+    },
+    "minesweeper": {
+        "wins": {
+            "beginner": 0,
+            "intermediate": 0,
+            "expert": 0
+        },
+        "no_flag_wins": 0
+    }
+}
